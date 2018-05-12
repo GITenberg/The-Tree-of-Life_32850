@@ -18,6 +18,8 @@ creator:
     wikipedia: http://en.wikipedia.org/wiki/C._L._Moore
 description: A gripping tale of the planet Mars and the terrible monstrosity that
   called its victims to it from afar.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/32850#The-Tree-of-Life
 gutenberg_issued: '2010-06-17'
 gutenberg_type: Text
 identifiers:
