@@ -1,0 +1,35 @@
+_repo: The-Tree-of-Life_32850
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 32850-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Moore, C. L. (Catherine Lucile)
+    aliases:
+    - Мур, К.
+    - Moore, Catherine Lucile
+    - Moore, Catherine Lucille
+    - Kuttner, C. L. Moore (Catherine Lucile Moore)
+    birthdate: 1911
+    deathdate: 1987
+    gutenberg_agent_id: '33397'
+    url: http://www.gutenberg.org/2009/agents/33397
+    wikipedia: http://en.wikipedia.org/wiki/C._L._Moore
+description: A gripping tale of the planet Mars and the terrible monstrosity that
+  called its victims to it from afar.
+gutenberg_issued: '2010-06-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32850'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Science fiction'
+- !lcc 'PS'
+- !lcsh 'Mars (Planet) -- Fiction'
+- !lcsh 'Human-alien encounters -- Fiction'
+title: The Tree of Life
+url: http://www.gutenberg.org/ebooks/32850
